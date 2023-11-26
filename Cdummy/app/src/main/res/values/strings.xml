@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">C Programs</string>
+
+    <string name="nav_header_title">C Programs</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_share">Share</string>
+
+    <string name="menu_programs">Programs</string>
+    <string name="menu_compiler">Compiler</string>
+
+    <string name="menu_helpfeed">Help and feedback</string>
+    <string name="menu_aboutdev">About the developers</string>
+    <string name="menu_aboutapp">About the app</string>
+
+    <string name="menu_rate">Rate</string>
+
+    <string name="output">Output :</string>
+
+    <string name="program1">C "Hello, World!" Program</string>
+    <string name="program2">C Program to Print an Integer (Entered by the User)</string>
+    <string name="program3">C Program to Add Two Integers</string>
+    <string name="program4">C Program to Multiply Two Floating-Point Numbers</string>
+    <string name="program5">C Program to Find ASCII Value of a Character</string>
+    <string name="program6">C Program to Compute Quotient and Remainder</string>
+    <string name="program7">C Program to Find the Size of int, float, double and char</string>
+    <string name="program8">C Program to Swap Two Numbers</string>
+
+</resources>

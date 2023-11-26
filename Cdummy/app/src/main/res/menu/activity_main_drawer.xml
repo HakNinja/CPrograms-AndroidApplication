@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_programs"
+            android:icon="@drawable/ic_baseline_code_24"
+            android:title="@string/menu_programs" />
+        <item
+            android:id="@+id/nav_compiler"
+            android:icon="@drawable/ic_baseline_code_24"
+            android:title="@string/menu_compiler" />
+    </group>
+    <item android:title="hello">
+        <group android:checkableBehavior="single">
+            <item
+                android:id="@+id/nav_aboutDev"
+                android:icon="@drawable/ic_baseline_code_24"
+                android:title="@string/menu_aboutdev" />
+            <item
+                android:id="@+id/nav_aboutApp"
+                android:icon="@drawable/ic_baseline_code_24"
+                android:title="@string/menu_aboutapp" />
+        </group>
+    </item>
+
+</menu>
