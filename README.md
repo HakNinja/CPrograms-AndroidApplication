@@ -1,11 +1,10 @@
-## Explore the world of C programming with our Android learning app, where Java and Android Studio converge to showcase interactive C programs in a seamless educational experience.
+# Explore the world of C programming with our Android learning app
 
-# Screenshots
-<div style="display: flex; flex-direction: column;">
-  <!-- Your content goes here -->
-  <img src="screenshots/s1.jpg"  width="40%" />
-  <img src="screenshots/s2.jpg"  width="40%" />
-  <br />
-  <img src="screenshots/s3.jpg"  width="40%" />
-  <img src="screenshots/s4.jpg"  width="40%" />
-</div>
+Welcome to our Android learning app, designed to immerse you in the realm of C programming. Here, the fusion of Java and Android Studio seamlessly brings interactive C programs to life, offering an enriching educational experience.
+
+## Screenshots
+
+![Screenshot 1](https://raw.githubusercontent.com/HakNinja/CPrograms-AndroidApplication/main/screenshots/s1.jpg)
+![Screenshot 2](https://raw.githubusercontent.com/HakNinja/CPrograms-AndroidApplication/main/screenshots/s2.jpg)
+![Screenshot 3](https://raw.githubusercontent.com/HakNinja/CPrograms-AndroidApplication/main/screenshots/s3.jpg)
+![Screenshot 4](https://raw.githubusercontent.com/HakNinja/CPrograms-AndroidApplication/main/screenshots/s4.jpg)
